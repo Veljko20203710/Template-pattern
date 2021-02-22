@@ -1,0 +1,12 @@
+{
+  "date": "Feb 22, 2021 12:50:35 PM",
+  "manager": {
+    "name": "Veljko",
+    "surname": "Milosevic"
+  },
+  "items": [
+    "item1",
+    "item2",
+    "item3"
+  ]
+}

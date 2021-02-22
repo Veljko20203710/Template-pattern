@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <dateBirth>1997-02-12T00:00:00+01:00</dateBirth>
+    <GPA>9.03</GPA>
+    <index>
+        <number>0244</number>
+        <year>2016</year>
+    </index>
+    <name>Veljko</name>
+    <surname>Milosevic</surname>
+</student>

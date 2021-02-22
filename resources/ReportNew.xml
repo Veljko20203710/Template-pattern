@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<report>
+    <date>2021-02-22T12:49:52.475+01:00</date>
+    <items>item1</items>
+    <items>item2</items>
+    <items>item3</items>
+    <manager>
+        <name>Veljko</name>
+        <surname>Milosevic</surname>
+    </manager>
+</report>

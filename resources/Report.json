@@ -1,0 +1,8 @@
+{
+    "date": "2019-05-03",
+    "manager": {
+        "name": "Veljko",
+        "surname": "Milosevic"
+    },
+    "items": ["Item1", "Item2", "Item3"]
+}
